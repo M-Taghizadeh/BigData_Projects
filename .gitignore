@@ -1,4 +1,4 @@
 datasets/
-pretrained/
+pytorch_model.bin
 venv
 coco-caption/
