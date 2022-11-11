@@ -2,3 +2,4 @@ datasets/
 pytorch_model.bin
 venv
 coco-caption/
+news.csv
