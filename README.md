@@ -2,8 +2,8 @@
 
 In this repository, various projects in the field of big data and data mining are implemented using different approaches of machine learning and deep learning. This repository is very suitable for people interested in implementing different applications of artificial intelligence and machine learning in the real world. Below you can see the list of implementations we have done so far.
 
-|Project Title|Project Desciption|
-|-------------|------------------|
+|Project Title|Project Description|
+|-------------|-------------------|
 |[Image Captioning](https://github.com/M-Taghizadeh/BigData_Projects/tree/master/Image%20Captioning)|In this project, we use deep learning and the architecture of **Vision Transformers**, and we implemented the task of image captioning with great precision and BLEU score. Vision Transformer architecture is the implementation of Google's Transformer architecture in the world of computer vision, the Transformer architecture was initially proposed by Google in the article **Attention is all you need** in 2017. In this implementation, **trabsformers** python library and **hugging face** are used.|
 |[Fake News Detection](https://github.com/M-Taghizadeh/BigData_Projects/tree/master/Fake%20News%20Detection)| As we know, in today's world, we are faced with a lot of information and news, many of which are fake news due to the interests of people. In this project, using natural language processing techniques and using PassiveAggressiveClassifier and TFIDF Tokenizer, the operation of distinguishing fake news from real news. We reached 93.13% accuracy.|
 |[DNA Sequencing](https://github.com/M-Taghizadeh/BigData_Projects/tree/master/DNA%20Sequencing%20Classifier)|Machine learning is widely used and interested by researchers in **bioinformatics** and natural sciences. In this project, we used the **Naive Bayese classifier** to classify the DNA sequence. **Kmers** technique is used in this project. We reached more than 98% accuracy.|
